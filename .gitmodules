@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AncReg"]
+	path = AncReg
+	url = https://github.com/markusul/ancreg
 [submodule "SDModels"]
 	path = SDModels
 	url = https://github.com/markusul/sdmodels
